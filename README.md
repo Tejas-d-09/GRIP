@@ -1,5 +1,6 @@
-# TASK-1
-This is the task 1 of my internship in the field of Data Science & Business Analysis. It mainly focus on making prediction using supervised Machine Learning, i.e. Regression Analysis.
+# THE SPARKS FOUDATION | GRIP | Internship
+## TASK 1
+The task 1 of my internship in the field of Data Science & Business Analysis. It mainly focus on making prediction using supervised Machine Learning, i.e. Regression Analysis.
 Regression problems are prevalent in machine learning, and regression analysis is the most often used technique for solving them. We will be using simple regression model to make prediction of our given data.
 Predictive modelling techniques such as regression analysis may be used to determine the relationship between a dataset’s dependent (goal) and independent variables.
 There are many different types of regression analysis but we will be using Linear Regression analysis.
