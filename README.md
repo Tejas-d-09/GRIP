@@ -8,5 +8,5 @@ The most extensively used modelling technique is linear regression, which assume
 
 The linear regression model can be simple (with only one dependent and one independent variable) or complex (with numerous dependent and independent variables) (with one dependent variable and more than one independent variable. We have used Simple Regression analysis in our TASK 1. The codes are given in the file added in the Repository.
 
-#TASK 3
+**##TASK 3**
 The Task 3 of my internship in the field of Data Science & Business Analytics is focused on Exploratory Data Analysis using python on a given dataset about super market. Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
